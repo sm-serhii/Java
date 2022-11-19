@@ -1,0 +1,1 @@
+<h3>Output min and max number in array</h3>
